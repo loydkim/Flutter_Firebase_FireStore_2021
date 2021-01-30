@@ -1,5 +1,7 @@
 # Firebase Cloud Firestore
 
+<img src="https://github.com/loydkim/Flutter_Firebase_FireStore_2021/blob/main/FirebaseFirestore_short.gif" width="300" height="520">
+
 * Develop Environment.
 
 - Flutter SDK Version: 1.25.0-5.0
